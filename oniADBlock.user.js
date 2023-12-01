@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         oniADBlock
 // @namespace    https://oniyevski.pw/
-// @version      1.0
-// @description  YouTube ADBlocker. (Adblock Thing Optimized and Modified Version)
+// @version      1.1
+// @description  YouTube ADBlocker. (Remove Adblock Thing Optimized and Modified Version)
 // @author       oniyevski
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://cdn.jsdelivr.net/gh/jpillora/notifyjs@d27d96fc2454c2e7ec21dc9fd7609944831fdedd/dist/notify.js
-// @updateURL    https://github.com/oniyevski/oniADBlock/raw/main/oniADBlock.user.js
-// @downloadURL  https://github.com/oniyevski/oniADBlock/raw/main/oniADBlock.user.js
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/481192/oniADBlock.user.js
+// @updateURL https://update.greasyfork.org/scripts/481192/oniADBlock.meta.js
 // ==/UserScript==
 $.notify.addStyle("bootstrap", {
     html: "<div>\n<span data-notify-text></span>\n</div>",
