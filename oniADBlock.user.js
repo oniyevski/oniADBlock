@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://cdn.jsdelivr.net/gh/jpillora/notifyjs@d27d96fc2454c2e7ec21dc9fd7609944831fdedd/dist/notify.js
-// @updateURL    https://github.com/oniyevski/oniADBlock/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
-// @downloadURL  https://github.com/oniyevski/oniADBlock/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
+// @updateURL    https://github.com/oniyevski/oniADBlock/raw/main/oniADBlock.user.js
+// @downloadURL  https://github.com/oniyevski/oniADBlock/raw/main/oniADBlock.user.js
 // @grant        none
 // ==/UserScript==
 $.notify.addStyle("bootstrap", {
